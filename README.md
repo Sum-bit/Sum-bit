@@ -1,13 +1,12 @@
-<h1 align="center">
-  <p align="center">
-    <img src="https://waveify.onrender.com/api/typing/classic?text=Hi+there+I'm+Sumedh+👋&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=" alt="Typing Animation" />
-  </p>
-</h1>
+<p align="center">
+  <img src="https://waveify.onrender.com/api/typing/classic?text=Hi+there+I'm+Sumedh&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=" alt="Typing Animation" />
+</p>
+
 <h3 align="center">Data Science student trying to make my code as clean as my Excel spreadsheets</h3>
 
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
-
-
+<p align="center">
+  <img src="https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default" alt="Wave Animation" />
+</p>
 
 <!-- GITSKINS / STATS WIDGETS -->
 
@@ -15,11 +14,11 @@
 
 ### 🧭 About Me
 
-- 🎓 BTech Data Science student at DY Patil International University (DYPIU)
+- 🎓 BTech Data Science student at DY Patil International University (DYPIU), Akurdi
 - 📊 Comfortable in Excel/Tableau/Power BI — trying to graduate to "comfortable in Python" too
 - 🚀 Learning stats → ML, aiming for a career in fintech data science (fraud detection, payments, that whole world)
 - 🛠️ When I'm not coding, I'm probably taking apart a phone or a drone and hoping it still works after
-- ☕ Powered by coffee and stubbornness
+- ☕ Powered by chai and stubbornness
 
 ---
 
