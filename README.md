@@ -1,13 +1,19 @@
 <h1 align="center">Hi there, I'm Sumedh 👋</h1>
 <h3 align="center">Data Science student trying to make my code as clean as my Excel spreadsheets</h3>
 
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+
+<p align="center">
+<img src="https://waveify.onrender.com/api/typing/classic?text=Welcome+to+my+project&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=" alt="Typing Animation" />
+</p>
+
 <!-- GITSKINS / STATS WIDGETS -->
 
 ---
 
 ### 🧭 About Me
 
-- 🎓 Studying Data Science, currently in a frontend dev internship (fighting CSS one flexbox at a time)
+- 🎓 BTech Data Science student at DY Patil International University (DYPIU)
 - 📊 Comfortable in Excel/Tableau/Power BI — trying to graduate to "comfortable in Python" too
 - 🚀 Learning stats → ML, aiming for a career in fintech data science (fraud detection, payments, that whole world)
 - 🛠️ When I'm not coding, I'm probably taking apart a phone or a drone and hoping it still works after
