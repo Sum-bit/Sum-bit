@@ -18,7 +18,7 @@
 - 📊 Comfortable in Excel/Tableau/Power BI — trying to graduate to "comfortable in Python" too
 - 🚀 Learning stats → ML, aiming for a career in fintech data science (fraud detection, payments, that whole world)
 - 🛠️ When I'm not coding, I'm probably taking apart a phone or a drone and hoping it still works after
-- ☕ Powered by chai and stubbornness
+- ☕ Powered by coffee and stubbornness
 
 ---
 
