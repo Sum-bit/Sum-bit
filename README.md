@@ -1,11 +1,13 @@
-<h1 align="center">Hi there, I'm Sumedh 👋</h1>
+<h1 align="center">
+  <p align="center">
+    <img src="https://waveify.onrender.com/api/typing/classic?text=Hi+there+I'm+Sumedh+👋&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=" alt="Typing Animation" />
+  </p>
+</h1>
 <h3 align="center">Data Science student trying to make my code as clean as my Excel spreadsheets</h3>
 
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 
-<p align="center">
-<img src="https://waveify.onrender.com/api/typing/classic?text=Welcome+to+my+project&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=" alt="Typing Animation" />
-</p>
+
 
 <!-- GITSKINS / STATS WIDGETS -->
 
