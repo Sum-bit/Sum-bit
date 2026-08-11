@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://waveify.onrender.com/api/typing/gradient?text=Hi+there+I'm+Sumedh&speed=60&color=%2300ff41&backgroundColor=%23000000&fontSize=32&fontFamily=JetBrains+Mono%2C+monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=gradient&prompt=%24+&glowEffect=true" alt="Typing Animation" />
+  <img src="https://waveify.onrender.com/api/typing/gradient?text=Hey+there+I'm+Sumedh&speed=60&color=%2300ff41&backgroundColor=%23000000&fontSize=32&fontFamily=JetBrains+Mono%2C+monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=gradient&prompt=%24+&glowEffect=true" alt="Typing Animation" />
 </p>
 
 <h3 align="center">Data Science student trying to make my code as clean as my Excel spreadsheets</h3>
